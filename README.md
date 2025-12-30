@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋 I'm Viranshu 🚀
 
-<!--
-**viranshulohar-png/viranshulohar-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🚀 Future Aerospace Engineer | Physics Lover | Coder | Anime Fan
 
-Here are some ideas to get you started:
+I'm a student from India 🇮🇳 who is deeply passionate about **Aerospace / Aeronautical Engineering**.  
+My dream is to build a **company like Boeing** one day and work on **huge, meaningful engineering projects** that push technology forward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 About Me
+- 🚀 Aspiring **Aerospace Engineer**
+- 📘 Preparing for **JEE**
+- ❤️ I love **Physics** (especially motion, forces & space)
+- 🎌 I enjoy watching **Anime** (great stories, creativity & inspiration)
+- 🏗️ Dreaming big projects (aircraft, rockets, simulations, tech systems)
+- 🎮 Favorite game: **Minecraft in Roblox**
+- 🤝 I like people who talk **politely**, give **suggestions**, and share **advice**
+- 🧠 You can talk to me like a **friend**
+
+---
+
+## 💻 Programming & Skills
+- 🐍 Python  
+- ☕ Java  
+- 💠 C++  
+- 🧠 Interested in:
+  - Simulations
+  - Engineering models
+  - Physics-based coding
+  - Problem solving
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Physics** for JEE
+- Algorithms & logical thinking
+- Clean and efficient coding
+- Turning ideas into **real projects**
+
+---
+
+## 🎯 Goals
+- Crack **JEE**
+- Build **huge engineering projects**
+- Start my own **aerospace company**
+- Contribute to open-source engineering & simulation projects
+
+---
+
+## 📫 Let's Connect
+- If you love **engineering, physics, anime, coding, or space**, we’ll get along great!
+- Always open to **learning, collaboration, and advice**
+
+⭐ *“Dream big, start small, stay consistent.”*
