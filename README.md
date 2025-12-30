@@ -3,7 +3,7 @@
 ### 👨‍🚀 Future Aerospace Engineer | Physics Lover | Coder | Anime Fan
 
 I'm a student from India 🇮🇳 who is deeply passionate about **Aerospace / Aeronautical Engineering**.  
-My dream is to build a **company like Boeing** one day and work on **huge, meaningful engineering projects** that push technology forward.
+My dream is to build a **company like Airbus** one day and work on **huge, meaningful engineering projects** that push technology forward.
 
 ---
 
