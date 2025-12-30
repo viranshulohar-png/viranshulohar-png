@@ -13,7 +13,7 @@ My dream is to build a **company like Boeing** one day and work on **huge, meani
 - ❤️ I love **Physics** (especially motion, forces & space)
 - 🎌 I enjoy watching **Anime** (great stories, creativity & inspiration)
 - 🏗️ Dreaming big projects (aircraft, rockets, simulations, tech systems)
-- 🎮 Favorite game: **Minecraft in Roblox**
+- 🎮 Favorite game: **Minecraft and Roblox**
 - 🤝 I like people who talk **politely**, give **suggestions**, and share **advice**
 - 🧠 You can talk to me like a **friend**
 
